@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Raleway&display=swap');
+
+
+.titulo1{
+    background-color: lightcoral;
+    font-size: 2rem;
+    color: white;
+    justify-content: center;
+    font-family: 'Quicksand', sans-serif;
+}
+.titulo2{
+    font-family: 'Raleway', sans-serif;
+}
+.titulo3{
+    font-family: 'Raleway', sans-serif;;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: transparent ;
+    color: azure;
+    font-family: 'Raleway', sans-serif;
+}
+button:hover{
+    background-color: black;
+}
+body{
+    background-color: #00DBDE;
+background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+}
+table{
+    border-collapse: collapse;
+}
+table td{
+    border: 1px solid;
+    text-align: center;
+}
+table th{
+    background-color: peachpuff;
+    color: white;
+}
+table td:hover{
+    background-color: antiquewhite;
+    color: white;
+}
+table th:hover{
+    background-color: lightgoldenrodyellow;
+    color: rgb(21, 199, 199);
+}
+td{
+    font-weight: bold;
+}
+caption{
+    font-family: 'Quicksand', sans-serif;
+}
+    
